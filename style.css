@@ -1,3 +1,7 @@
+*{
+    margin: 0:
+}
+
 body{
     background-color: rgb(97, 23, 182);
 }
@@ -5,7 +9,7 @@ body{
     color: aliceblue;
     text-align: center;
     margin: auto;
-    margin-top: 300px;
+    margin-top: 250px;
     font-weight: 600px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    
